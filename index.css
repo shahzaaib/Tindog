@@ -1,0 +1,27 @@
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#card .dog-img {
+    width: 60%;
+}
+
+#card {
+    position: relative;
+    width: 40%;
+}
+
+.dog-info {
+    position: absolute;
+    color: white;
+    bottom: 10px;
+    left: 10px;
+}
+
+#badge-img img{
+    width: 150px;
+    transform: rotate(-35deg);
+    position: absolute;
+    bottom: 400px;
+}
+
